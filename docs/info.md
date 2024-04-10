@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A simple yet stylish ring oscillator that uses a chain of 21 SkullFET inverters to generate a square wave output. 
+A simple yet stylish ring oscillator that uses a chain of 21 SkullFET inverters to generate a square wave output. Based on simulation, the oscillator should have a frequency of around 90 MHz.
 
 ## How to test
 
