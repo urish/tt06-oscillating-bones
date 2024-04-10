@@ -9,12 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A simple yet stylish ring oscillator that uses a chain of 21 SkullFET inverters to generate a square wave output. 
 
 ## How to test
 
-Explain how to use your project
-
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Connect an oscilloscope to the `osc_out` (`uo_out[0]`) pin and enjoy the show.

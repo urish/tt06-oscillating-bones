@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
-# Tiny Tapeout Analog Project Template
+# Oscillating Bones on Tiny Tapeout
 
 - [Read the documentation for project](docs/info.md)
 
