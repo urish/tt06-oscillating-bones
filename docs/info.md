@@ -13,4 +13,4 @@ A simple yet stylish ring oscillator that uses a chain of 21 SkullFET inverters 
 
 ## How to test
 
-Connect an oscilloscope to the `osc_out` (`uo_out[0]`) pin and enjoy the show.
+Connect an oscilloscope to the `osc_out` (ou_out pin 0) pin and enjoy the show. You can also observe the divided frequency outputs on `osc_div_2`, `osc_div_4`, and `osc_div_8`.

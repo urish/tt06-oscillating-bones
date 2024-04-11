@@ -31,9 +31,9 @@ pinout:
 
   # Outputs
   uo[0]: "osc_out"
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
+  uo[1]: "osc_div_2"
+  uo[2]: "osc_div_4"
+  uo[3]: "osc_div_8"
   uo[4]: ""
   uo[5]: ""
   uo[6]: ""
