@@ -10,3 +10,7 @@ gds/$(PROJECT).gds: mag/$(PROJECT).mag
 
 lef/$(PROJECT).lef: mag/$(PROJECT).mag
 	echo "select top cell; lef write \"$@\" -pinonly" | magic -rcfile $(PDK_ROOT)/sky130A/libs.tech/magic/sky130A.magicrc -noconsole -dnull $<
+
+clean:
+	rm -f gds/$(PROJECT).gds lef/$(PROJECT).lef
+.PHONY: clean
